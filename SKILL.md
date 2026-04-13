@@ -45,17 +45,24 @@ description: >
 node scripts/setup.mjs --check
 ```
 
-## 运行前提
+## 配音方案（三级降级）
 
-- `.env` 位于项目根目录，至少包含：
-  - `MINIMAX_API_KEY`
-  - `MINIMAX_GROUP_ID`
-  - `MINIMAX_VOICE_ID`
-- 如果需要重新克隆声音，使用：
+默认走 MiniMax 克隆声音，没有 API Key 自动降级到免费方案：
 
-```bash
-python3 scripts/clone_voice.py scripts/my_voice.mp3
 ```
+1. MiniMax 克隆声音（最优）→ 需要 .env 中配置 MINIMAX_API_KEY / GROUP_ID / VOICE_ID
+2. edge-tts 免费语音（兜底）→ 不需要任何 API Key，自动使用微软免费语音
+3. 静音占位（保底）→ 如果 edge-tts 也不可用，生成无声视频
+```
+
+**判断逻辑**：
+- 检查项目根目录有没有 `.env` 且包含 `MINIMAX_API_KEY`
+  - 有 → 走 MiniMax：`python3 scripts/generate_tts_minimax.py`
+  - 没有 → 走 edge-tts：`node scripts/generate-tts.mjs`（需要 `pip install edge-tts`，如果没装就自动装）
+  - edge-tts 也失败 → 跳过配音，生成无声视频，提示用户后续补录
+
+**学员首次使用时**：没有 .env 是正常的，直接走 edge-tts 免费配音即可。
+**想升级克隆声音时**：配置 .env 并用 `python3 scripts/clone_voice.py scripts/my_voice.mp3` 克隆。
 
 ## Workflow
 
@@ -98,19 +105,23 @@ python3 scripts/clone_voice.py scripts/my_voice.mp3
 - `gradient` 只用于短关键句
 - 长句拆成 `title / body / emphasis`
 
-### Step 3: 生成 MiniMax 克隆声音配音
+### Step 3: 生成配音（自动选择方案）
 
-使用项目内脚本，不要再调用 `/tmp` 旧脚本：
+**先检查 `.env` 是否存在且包含 `MINIMAX_API_KEY`**：
 
+**有 MiniMax API Key → 走克隆声音**：
 ```bash
 python3 scripts/generate_tts_minimax.py src/data/<name>-script.json public/audio/
 ```
 
-这个脚本会：
+**没有 .env 或没有 API Key → 走 edge-tts 免费配音**：
+```bash
+# 先确保 edge-tts 已安装
+pip install edge-tts 2>/dev/null
+node scripts/generate-tts.mjs src/data/<name>-script.json
+```
 
-- 读取项目根目录 `.env`
-- 使用 `MINIMAX_VOICE_ID` 生成每页配音
-- 写入 `public/audio/manifest.json`
+两种方案都会写入 `public/audio/manifest.json`，后续渲染步骤完全一样。
 
 ### Step 4: 渲染成片
 
