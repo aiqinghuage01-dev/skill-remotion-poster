@@ -1,0 +1,11 @@
+{
+  "name": "文案自动成片",
+  "version": "2.0.0",
+  "description": "不用数字人时，把现成文案或同轮刚生成的文案直接做成卡片式短视频。默认使用 MiniMax 克隆声音配音。当用户提到\"文案成片\"\"把文案做成视频\"\"文字转视频\"时触发。",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {
+    "node": ">=18"
+  },
+  "entry": "SKILL.md"
+}

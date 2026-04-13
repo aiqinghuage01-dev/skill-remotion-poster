@@ -1,0 +1,191 @@
+{
+  "title": "你的工厂什么都不缺，就缺订单",
+  "digitalHuman": "digital-human.mp4",
+  "digitalHumanCrop": "center 45.9%",
+  "audioTrack": "audio/factory-narration.mp3",
+  "slides": [
+    {
+      "lines": [
+        {"text": "开工厂最难受的", "style": "title"},
+        {"text": "不是生产线出问题", "style": "body"}
+      ],
+      "narration": "开工厂最难受的不是生产线出问题",
+      "duration": 2.42
+    },
+    {
+      "lines": [
+        {"text": "机器能开 工人到位", "style": "body"},
+        {"text": "原料备齐", "style": "emphasis", "color": "#06b6d4"}
+      ],
+      "narration": "是机器能开、工人到位、原料备齐",
+      "duration": 3.10
+    },
+    {
+      "lines": [
+        {"text": "没有订单", "style": "gradient", "color": "#ef4444"}
+      ],
+      "narration": "但就是没有订单下来",
+      "duration": 1.58,
+      "emoji": "😰"
+    },
+    {
+      "lines": [
+        {"text": "旺季忙得连轴转", "style": "title"},
+        {"text": "淡季车间空着", "style": "emphasis", "color": "#eab308"},
+        {"text": "固定开销一分不少", "style": "body"}
+      ],
+      "narration": "旺季忙得连轴转，淡季车间空着，固定开销一分不少",
+      "duration": 4.36,
+      "emoji": "💸"
+    },
+    {
+      "lines": [
+        {"text": "养了业务员 跑了展会", "style": "title"},
+        {"text": "发了名片 花了不少钱", "style": "body"}
+      ],
+      "narration": "你养了业务员、跑了展会、发了名片，花了不少钱",
+      "duration": 4.10
+    },
+    {
+      "lines": [
+        {"text": "能成交的客户", "style": "title"},
+        {"text": "没几个", "style": "gradient", "color": "#ec4899"}
+      ],
+      "narration": "真正能成交的客户却没几个",
+      "duration": 2.02,
+      "emoji": "😩"
+    },
+    {
+      "lines": [
+        {"text": "不是你产品不行", "style": "title"}
+      ],
+      "narration": "真正麻烦的不是你产品不行",
+      "duration": 1.96
+    },
+    {
+      "lines": [
+        {"text": "找客户的方式", "style": "emphasis", "color": "#f59e0b"},
+        {"text": "还停在10年前", "style": "gradient", "color": "#ef4444"}
+      ],
+      "narration": "而是你找客户的方式还停在十年前",
+      "duration": 2.48,
+      "emoji": "⏰"
+    },
+    {
+      "lines": [
+        {"text": "采购商不是先看名片", "style": "title"},
+        {"text": "先看短视频", "style": "gradient", "color": "#06b6d4"}
+      ],
+      "narration": "现在采购商不是先看名片，而是先看短视频",
+      "duration": 3.68,
+      "emoji": "📱"
+    },
+    {
+      "lines": [
+        {"text": "同行把车间产线品控", "style": "title"},
+        {"text": "持续拍出来", "style": "emphasis", "color": "#10b981"}
+      ],
+      "narration": "同行把车间、产线、品控持续拍出来",
+      "duration": 3.52
+    },
+    {
+      "lines": [
+        {"text": "客户刷到后", "style": "body"},
+        {"text": "先去找他了", "style": "gradient", "color": "#eab308"}
+      ],
+      "narration": "客户刷到后先去找他了",
+      "duration": 2.36,
+      "emoji": "👋"
+    },
+    {
+      "lines": [
+        {"text": "不会写文案 不会拍剪", "style": "title"},
+        {"text": "也没关系", "style": "emphasis", "color": "#8b5cf6"}
+      ],
+      "narration": "你不会写文案、不会拍剪也没关系",
+      "duration": 2.52
+    },
+    {
+      "lines": [
+        {"text": "规模·产品·工艺·交期", "style": "badge", "color": "#06b6d4"},
+        {"text": "告诉AI", "style": "gradient", "color": "#f59e0b"}
+      ],
+      "narration": "把工厂规模、主打产品、核心工艺、交期优势告诉AI",
+      "duration": 4.58,
+      "emoji": "🤖"
+    },
+    {
+      "lines": [
+        {"text": "AI直接生成", "style": "title"},
+        {"text": "口播脚本", "style": "gradient", "color": "#f59e0b"}
+      ],
+      "narration": "AI直接帮你生成口播脚本",
+      "duration": 2.32
+    },
+    {
+      "lines": [
+        {"text": "不想出镜", "style": "title"},
+        {"text": "数字人替你讲", "style": "emphasis", "color": "#ec4899"}
+      ],
+      "narration": "你不想出镜，数字人替你讲",
+      "duration": 2.22
+    },
+    {
+      "lines": [
+        {"text": "不会剪辑", "style": "body"},
+        {"text": "AI自动出成片", "style": "gradient", "color": "#10b981"}
+      ],
+      "narration": "不会剪辑，AI自动出成片",
+      "duration": 3.90,
+      "emoji": "🎬"
+    },
+    {
+      "lines": [
+        {"text": "持续发布后", "style": "body"},
+        {"text": "让有需求的采购商", "style": "title"}
+      ],
+      "narration": "持续发布后，让有需求的采购商",
+      "duration": 3.12
+    },
+    {
+      "lines": [
+        {"text": "先看到你 先信任你", "style": "emphasis", "color": "#3b82f6"},
+        {"text": "再来询价", "style": "gradient", "color": "#f59e0b"}
+      ],
+      "narration": "先看到你、先信任你、再来询价",
+      "duration": 2.42
+    },
+    {
+      "lines": [
+        {"text": "以前是你出去找客户", "style": "body"}
+      ],
+      "narration": "以前是你出去找客户",
+      "duration": 1.86
+    },
+    {
+      "lines": [
+        {"text": "客户主动来找你", "style": "gradient", "color": "#ef4444"}
+      ],
+      "narration": "现在是客户主动来找你",
+      "duration": 1.96,
+      "emoji": "🔥"
+    },
+    {
+      "lines": [
+        {"text": "发愁订单的工厂老板", "style": "title"},
+        {"text": "点我头像进直播间", "style": "badge", "color": "#f59e0b"}
+      ],
+      "narration": "还在发愁下一批订单在哪的工厂老板，点我头像进直播间",
+      "duration": 4.28,
+      "emoji": "😟"
+    },
+    {
+      "lines": [
+        {"text": "这套方法", "style": "body"},
+        {"text": "从头到尾讲给你听", "style": "emphasis", "color": "#f59e0b"}
+      ],
+      "narration": "我把这套方法从头到尾讲给你听",
+      "duration": 2.92
+    }
+  ]
+}

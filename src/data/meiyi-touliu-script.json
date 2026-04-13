@@ -1,0 +1,378 @@
+{
+  "title": "我见过太多美业老板",
+  "digitalHuman": "meiyi-touliu.mp4",
+  "digitalHumanCrop": "center 45.7%",
+  "audioTrack": "audio/meiyi-touliu.mp3",
+  "slides": [
+    {
+      "lines": [
+        {
+          "text": "我见过太多美业老板",
+          "style": "title"
+        },
+        {
+          "text": "一天做8个客人",
+          "style": "body"
+        },
+        {
+          "text": "忙得饭都顾不上吃",
+          "style": "body"
+        },
+        {
+          "text": "月底一算账",
+          "style": "gradient",
+          "color": "#f59e0b"
+        }
+      ],
+      "narration": "我见过太多美业老板一天做8个客人忙得饭都顾不上吃月底一算账",
+      "duration": 5.06
+    },
+    {
+      "lines": [
+        {
+          "text": "利润全交给平台了",
+          "style": "title"
+        },
+        {
+          "text": "团购99的体验客来了一批又一批",
+          "style": "body"
+        },
+        {
+          "text": "做完就走",
+          "style": "emphasis",
+          "color": "#ef4444"
+        }
+      ],
+      "narration": "利润全交给平台了团购99的体验客来了一批又一批做完就走",
+      "duration": 5.2
+    },
+    {
+      "lines": [
+        {
+          "text": "连你店名都记不住",
+          "style": "title"
+        },
+        {
+          "text": "你想提客单价又怕没人来",
+          "style": "body"
+        },
+        {
+          "text": "你想停团购",
+          "style": "body"
+        },
+        {
+          "text": "又怕客流直接断",
+          "style": "gradient",
+          "color": "#06b6d4"
+        }
+      ],
+      "narration": "连你店名都记不住你想提客单价又怕没人来你想停团购又怕客流直接断",
+      "duration": 5.56
+    },
+    {
+      "lines": [
+        {
+          "text": "美团排名靠前的同行",
+          "style": "title"
+        },
+        {
+          "text": "天天砸钱买位置",
+          "style": "body"
+        },
+        {
+          "text": "你跟不跟",
+          "style": "body"
+        },
+        {
+          "text": "跟利润没了",
+          "style": "gradient",
+          "color": "#10b981"
+        }
+      ],
+      "narration": "美团排名靠前的同行天天砸钱买位置你跟不跟跟利润没了",
+      "duration": 5.22,
+      "emoji": "💸"
+    },
+    {
+      "lines": [
+        {
+          "text": "不跟客人看不见你",
+          "style": "title"
+        },
+        {
+          "text": "问题不出在你的手艺上",
+          "style": "body"
+        },
+        {
+          "text": "也不出在你的项目上",
+          "style": "body"
+        },
+        {
+          "text": "问题出在你的客人从哪来",
+          "style": "emphasis",
+          "color": "#8b5cf6"
+        }
+      ],
+      "narration": "不跟客人看不见你问题不出在你的手艺上也不出在你的项目上问题出在你的客人从哪来",
+      "duration": 6.3
+    },
+    {
+      "lines": [
+        {
+          "text": "如果永远靠平台喂你",
+          "style": "title"
+        },
+        {
+          "text": "你就永远被平台捏着",
+          "style": "body"
+        },
+        {
+          "text": "但你说做短视频",
+          "style": "body"
+        },
+        {
+          "text": "我不会写文案",
+          "style": "gradient",
+          "color": "#ec4899"
+        }
+      ],
+      "narration": "如果永远靠平台喂你你就永远被平台捏着但你说做短视频我不会写文案",
+      "duration": 5.22
+    },
+    {
+      "lines": [
+        {
+          "text": "也不敢出镜",
+          "style": "title"
+        },
+        {
+          "text": "更没时间天天拍",
+          "style": "gradient",
+          "color": "#3b82f6"
+        }
+      ],
+      "narration": "也不敢出镜更没时间天天拍",
+      "duration": 2.44,
+      "emoji": "⏰"
+    },
+    {
+      "lines": [
+        {
+          "text": "以前确实难",
+          "style": "title"
+        },
+        {
+          "text": "现在不一样了",
+          "style": "body"
+        },
+        {
+          "text": "你只需要把你的项目",
+          "style": "body"
+        },
+        {
+          "text": "你的门店",
+          "style": "body"
+        },
+        {
+          "text": "你最想推的那个核心服务",
+          "style": "emphasis",
+          "color": "#eab308"
+        }
+      ],
+      "narration": "以前确实难现在不一样了你只需要把你的项目你的门店你最想推的那个核心服务",
+      "duration": 5.94
+    },
+    {
+      "lines": [
+        {
+          "text": "告诉AI",
+          "style": "title"
+        },
+        {
+          "text": "AI先帮你拆你",
+          "style": "body"
+        },
+        {
+          "text": "同城客户最在意的点",
+          "style": "body"
+        },
+        {
+          "text": "再直接生成一条条种草文案",
+          "style": "emphasis",
+          "color": "#f59e0b"
+        }
+      ],
+      "narration": "告诉AIAI先帮你拆你同城客户最在意的点再直接生成一条条种草文案",
+      "duration": 5.26,
+      "emoji": "🤖"
+    },
+    {
+      "lines": [
+        {
+          "text": "你不想出镜",
+          "style": "title"
+        },
+        {
+          "text": "没关系",
+          "style": "body"
+        },
+        {
+          "text": "AI克隆你的形象",
+          "style": "body"
+        },
+        {
+          "text": "数字人替你讲",
+          "style": "body"
+        },
+        {
+          "text": "讲完之后自动剪辑成片",
+          "style": "emphasis",
+          "color": "#ef4444"
+        }
+      ],
+      "narration": "你不想出镜没关系AI克隆你的形象数字人替你讲讲完之后自动剪辑成片",
+      "duration": 6.0,
+      "emoji": "🤖"
+    },
+    {
+      "lines": [
+        {
+          "text": "加上字幕",
+          "style": "title"
+        },
+        {
+          "text": "配乐",
+          "style": "body"
+        },
+        {
+          "text": "直接就是一条能发的短视频",
+          "style": "body"
+        },
+        {
+          "text": "然后同城精准投放",
+          "style": "gradient",
+          "color": "#06b6d4"
+        }
+      ],
+      "narration": "加上字幕配乐直接就是一条能发的短视频然后同城精准投放",
+      "duration": 5.1
+    },
+    {
+      "lines": [
+        {
+          "text": "25到45岁",
+          "style": "title"
+        },
+        {
+          "text": "你门店周边",
+          "style": "body"
+        },
+        {
+          "text": "5公里的女性客户",
+          "style": "body"
+        },
+        {
+          "text": "刷到就是你的内容",
+          "style": "gradient",
+          "color": "#10b981"
+        }
+      ],
+      "narration": "25到45岁你门店周边5公里的女性客户刷到就是你的内容",
+      "duration": 4.96
+    },
+    {
+      "lines": [
+        {
+          "text": "不是一条碰运气",
+          "style": "title"
+        },
+        {
+          "text": "是一周二十条",
+          "style": "body"
+        },
+        {
+          "text": "持续触达",
+          "style": "body"
+        },
+        {
+          "text": "她今天刷到你",
+          "style": "body"
+        },
+        {
+          "text": "明天又刷到你",
+          "style": "gradient",
+          "color": "#8b5cf6"
+        }
+      ],
+      "narration": "不是一条碰运气是一周二十条持续触达她今天刷到你明天又刷到你",
+      "duration": 5.36
+    },
+    {
+      "lines": [
+        {
+          "text": "后天朋友也在刷到你",
+          "style": "title"
+        },
+        {
+          "text": "她就来了",
+          "style": "body"
+        },
+        {
+          "text": "来的时候",
+          "style": "body"
+        },
+        {
+          "text": "不是问99那个还有吗",
+          "style": "body"
+        },
+        {
+          "text": "是问你们那个",
+          "style": "gradient",
+          "color": "#ec4899"
+        }
+      ],
+      "narration": "后天朋友也在刷到你她就来了来的时候不是问99那个还有吗是问你们那个",
+      "duration": 5.0
+    },
+    {
+      "lines": [
+        {
+          "text": "抗衰项目怎么做的",
+          "style": "title"
+        },
+        {
+          "text": "不想再给平台打工的美业老板",
+          "style": "body"
+        },
+        {
+          "text": "点头像进直播间",
+          "style": "body"
+        },
+        {
+          "text": "我把这套同城",
+          "style": "gradient",
+          "color": "#3b82f6"
+        }
+      ],
+      "narration": "抗衰项目怎么做的不想再给平台打工的美业老板点头像进直播间我把这套同城",
+      "duration": 5.66,
+      "emoji": "👆"
+    },
+    {
+      "lines": [
+        {
+          "text": "精准获客的方法",
+          "style": "title"
+        },
+        {
+          "text": "拆给你听",
+          "style": "emphasis",
+          "color": "#eab308"
+        }
+      ],
+      "narration": "精准获客的方法拆给你听",
+      "duration": 2.1,
+      "emoji": "🎯"
+    }
+  ]
+}

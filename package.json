@@ -1,0 +1,22 @@
+{
+  "name": "remotion-poster",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "preview": "remotion studio src/index.ts",
+    "render": "node scripts/render-video.mjs",
+    "render:vertical": "node scripts/render-video.mjs --vertical",
+    "tts": "node scripts/generate-tts.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "AI-driven card-style video generator",
+  "dependencies": {
+    "@remotion/cli": "^4.0.428",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.428"
+  }
+}

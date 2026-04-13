@@ -1,0 +1,157 @@
+{
+  "title": "美业老板你的客人是不是团购来的越来越多",
+  "digitalHuman": "meiye-touliu.mp4",
+  "digitalHumanCrop": "center 43.5%",
+  "audioTrack": "audio/meiye-touliu.mp3",
+  "slides": [
+    {
+      "lines": [
+        {
+          "text": "美业老板你的客人是不是团购来的越来越多",
+          "style": "title"
+        },
+        {
+          "text": "体验完就走连复购都没有",
+          "style": "emphasis",
+          "color": "#f59e0b"
+        }
+      ],
+      "narration": "美业老板你的客人是不是团购来的越来越多体验完就走连复购都没有",
+      "duration": 5.02
+    },
+    {
+      "lines": [
+        {
+          "text": "你以为问题出在项目不好",
+          "style": "title"
+        },
+        {
+          "text": "其实是客户到你店之前",
+          "style": "body"
+        },
+        {
+          "text": "根本不知道你擅长什么",
+          "style": "emphasis",
+          "color": "#ef4444"
+        }
+      ],
+      "narration": "你以为问题出在项目不好其实是客户到你店之前根本不知道你擅长什么",
+      "duration": 5.08
+    },
+    {
+      "lines": [
+        {
+          "text": "你跟隔壁那家有什么不一样",
+          "style": "title"
+        },
+        {
+          "text": "她只认价格不认你",
+          "style": "body"
+        },
+        {
+          "text": "现在有一套方法",
+          "style": "gradient",
+          "color": "#06b6d4"
+        }
+      ],
+      "narration": "你跟隔壁那家有什么不一样她只认价格不认你现在有一套方法",
+      "duration": 4.72
+    },
+    {
+      "lines": [
+        {
+          "text": "能让你同城想做美容的客户",
+          "style": "title"
+        },
+        {
+          "text": "刷短视频就能刷到你",
+          "style": "body"
+        },
+        {
+          "text": "你只需要把核心项目真实案例",
+          "style": "emphasis",
+          "color": "#10b981"
+        }
+      ],
+      "narration": "能让你同城想做美容的客户刷短视频就能刷到你你只需要把核心项目真实案例",
+      "duration": 5.98
+    },
+    {
+      "lines": [
+        {
+          "text": "门店环境交给AI",
+          "style": "title"
+        },
+        {
+          "text": "它帮你生成专属获客文案",
+          "style": "body"
+        },
+        {
+          "text": "数字人替你出镜讲解",
+          "style": "gradient",
+          "color": "#8b5cf6"
+        }
+      ],
+      "narration": "门店环境交给AI它帮你生成专属获客文案数字人替你出镜讲解",
+      "duration": 5.02
+    },
+    {
+      "lines": [
+        {
+          "text": "自动剪辑成片",
+          "style": "title"
+        },
+        {
+          "text": "一天能产出几十条精准内容",
+          "style": "body"
+        },
+        {
+          "text": "持续触达附近想做美容的女性客户",
+          "style": "emphasis",
+          "color": "#ec4899"
+        }
+      ],
+      "narration": "自动剪辑成片一天能产出几十条精准内容持续触达附近想做美容的女性客户",
+      "duration": 5.94,
+      "emoji": "🎯"
+    },
+    {
+      "lines": [
+        {
+          "text": "以前你在美团上拼低价等客户挑你",
+          "style": "title"
+        },
+        {
+          "text": "现在是客户刷到你的内容",
+          "style": "body"
+        },
+        {
+          "text": "带着信任主动来咨询",
+          "style": "gradient",
+          "color": "#3b82f6"
+        }
+      ],
+      "narration": "以前你在美团上拼低价等客户挑你现在是客户刷到你的内容带着信任主动来咨询",
+      "duration": 6.02
+    },
+    {
+      "lines": [
+        {
+          "text": "想把团购客变成高客单的疗程客",
+          "style": "title"
+        },
+        {
+          "text": "点头像进直播间",
+          "style": "body"
+        },
+        {
+          "text": "我教你怎么做",
+          "style": "emphasis",
+          "color": "#eab308"
+        }
+      ],
+      "narration": "想把团购客变成高客单的疗程客点头像进直播间我教你怎么做",
+      "duration": 5.38
+    }
+  ]
+}

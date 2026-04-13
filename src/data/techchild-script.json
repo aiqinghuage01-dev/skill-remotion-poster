@@ -1,0 +1,156 @@
+{
+  "title": "四五百编程特训班",
+  "digitalHuman": "digital-human-4-clean.mp4",
+  "digitalHumanCrop": "center 30.4%",
+  "audioTrack": "audio/narration-4-clean.mp3",
+  "slides": [
+    {
+      "lines": [
+        {"text": "四五百编程特训班", "style": "gradient", "color": "#8b5cf6"},
+        {"text": "为什么要搞这个班？", "style": "title"}
+      ],
+      "narration": "我为什么要搞这个四五百的编程特训班呢",
+      "duration": 3.54
+    },
+    {
+      "lines": [
+        {"text": "原因是", "style": "body"},
+        {"text": "实在看不下去了", "style": "emphasis", "color": "#ef4444"}
+      ],
+      "narration": "原因实在是看不下去了",
+      "duration": 2.00,
+      "emoji": "😤"
+    },
+    {
+      "lines": [
+        {"text": "行业一堆", "style": "title"},
+        {"text": "9块9 / 10块9", "style": "gradient", "color": "#f59e0b"},
+        {"text": "体验课", "style": "body"}
+      ],
+      "narration": "现在我们这行业一堆的9块9、10块9的体验课",
+      "duration": 4.14
+    },
+    {
+      "lines": [
+        {"text": "报了课", "style": "title"},
+        {"text": "电话给你打爆了", "style": "emphasis", "color": "#ef4444"}
+      ],
+      "narration": "报了个课吧，电话给你打爆了",
+      "duration": 2.44,
+      "emoji": "📞"
+    },
+    {
+      "lines": [
+        {"text": "报了正式课呢？", "style": "title"},
+        {"text": "降低难度 减少内容", "style": "emphasis", "color": "#eab308"}
+      ],
+      "narration": "然后报了正式课呢，降低课程难度，减少课程内容",
+      "duration": 3.86
+    },
+    {
+      "lines": [
+        {"text": "增加课程次数", "style": "title"},
+        {"text": "还捆绑比赛和考试", "style": "gradient", "color": "#ef4444"}
+      ],
+      "narration": "增加课程次数，还捆绑一堆比赛和考试",
+      "duration": 3.78,
+      "emoji": "💸"
+    },
+    {
+      "lines": [
+        {"text": "白名单升学？", "style": "emphasis", "color": "#f59e0b"},
+        {"text": "等级考证升学？", "style": "emphasis", "color": "#f59e0b"}
+      ],
+      "narration": "为什么白名单的升学，为什么等级考证的升学",
+      "duration": 3.36
+    },
+    {
+      "lines": [
+        {"text": "家长被忽悠得", "style": "title"},
+        {"text": "团团转", "style": "gradient", "color": "#ec4899"},
+        {"text": "太可怜了", "style": "body"}
+      ],
+      "narration": "我们家长会被忽悠得团团转，太可怜了",
+      "duration": 3.10,
+      "emoji": "😩"
+    },
+    {
+      "lines": [
+        {"text": "所以今年", "style": "body"},
+        {"text": "我搞了个四五百特训班", "style": "gradient", "color": "#8b5cf6"}
+      ],
+      "narration": "所以今年呢我就搞了个四五百特训班",
+      "duration": 2.38
+    },
+    {
+      "lines": [
+        {"text": "赛考机器人的正式课", "style": "title"},
+        {"text": "开放给孩子们学", "style": "gradient", "color": "#10b981"}
+      ],
+      "narration": "我就把我们的赛考机器人的正式课开放出来让孩子们学",
+      "duration": 3.84
+    },
+    {
+      "lines": [
+        {"text": "两三线城市课程", "style": "title"},
+        {"text": "只要四五百就能学到", "style": "gradient", "color": "#f59e0b"}
+      ],
+      "narration": "两三线城市课程只要四五百就能学到",
+      "duration": 3.40,
+      "emoji": "🎉"
+    },
+    {
+      "lines": [
+        {"text": "竞赛教练", "style": "badge", "color": "#3b82f6"},
+        {"text": "亲自主教", "style": "gradient", "color": "#3b82f6"}
+      ],
+      "narration": "而且呢，都是我们竞赛教练亲自主教",
+      "duration": 2.66
+    },
+    {
+      "lines": [
+        {"text": "我亲自做规划", "style": "emphasis", "color": "#8b5cf6"},
+        {"text": "还有保过级的服务", "style": "gradient", "color": "#10b981"}
+      ],
+      "narration": "是我亲自给你做规划，还有保过级的服务",
+      "duration": 2.90
+    },
+    {
+      "lines": [
+        {"text": "感兴趣的话", "style": "body"},
+        {"text": "到直播间来听一听", "style": "badge", "color": "#f59e0b"}
+      ],
+      "narration": "如果你感兴趣到直播间来听一听",
+      "duration": 2.12,
+      "emoji": "👆"
+    },
+    {
+      "lines": [
+        {"text": "直播间福利", "style": "title"},
+        {"text": "两次免费试听", "style": "gradient", "color": "#06b6d4"},
+        {"text": "纸质版教材", "style": "emphasis", "color": "#f59e0b"}
+      ],
+      "narration": "现在直播间啊，还有两次免费试听机会，还有纸质版教材",
+      "duration": 4.58,
+      "emoji": "📚"
+    },
+    {
+      "lines": [
+        {"text": "千万不要错过", "style": "gradient", "color": "#ef4444"},
+        {"text": "一定要来占名额", "style": "emphasis", "color": "#f59e0b"}
+      ],
+      "narration": "千万不要错过，一定要来占名额",
+      "duration": 2.38,
+      "emoji": "⚠️"
+    },
+    {
+      "lines": [
+        {"text": "名额限量", "style": "gradient", "color": "#ef4444"},
+        {"text": "一定过来占！", "style": "title"}
+      ],
+      "narration": "名额是限量的，一定过来占",
+      "duration": 3.88,
+      "emoji": "🔥"
+    }
+  ]
+}

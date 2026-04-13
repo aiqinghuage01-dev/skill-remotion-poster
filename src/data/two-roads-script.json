@@ -1,0 +1,70 @@
+{
+  "title": "往下走就两条路",
+  "slides": [
+    {
+      "lines": [
+        {"text": "今年我看得很清楚", "style": "title"},
+        {"text": "往下走就两条路", "style": "emphasis", "color": "#ef4444"},
+        {"text": "没有第三种", "style": "emphasis", "color": "#ef4444"}
+      ],
+      "narration": "今年我看得很清楚，往下走就两条路，没有第三种。",
+      "duration": 5
+    },
+    {
+      "lines": [
+        {"text": "第一种", "style": "body"},
+        {"text": "你足够大", "style": "title"},
+        {"text": "头部机构 组织化运作", "style": "body"},
+        {"text": "模型效率够高", "style": "body"},
+        {"text": "纯粹靠投流抢量", "style": "emphasis", "color": "#3b82f6"},
+        {"text": "这帮人能赢", "style": "emphasis", "color": "#3b82f6"}
+      ],
+      "narration": "第一种，你足够大。头部机构，组织化运作，模型效率够高，纯粹靠投流抢量，这帮人能赢。",
+      "duration": 8
+    },
+    {
+      "lines": [
+        {"text": "第二种", "style": "body"},
+        {"text": "你足够小", "style": "title"},
+        {"text": "没太多组织成本", "style": "body"},
+        {"text": "没太多环节 灵活", "style": "body"},
+        {"text": "你就是一个夫妻店", "style": "emphasis", "color": "#10b981"},
+        {"text": "卖一单是一单", "style": "emphasis", "color": "#10b981"}
+      ],
+      "narration": "第二种，你足够小。没太多组织成本，没太多环节，灵活。你就是一个夫妻店，卖一单是一单。",
+      "duration": 8
+    },
+    {
+      "lines": [
+        {"text": "直播间直接卖正价产品", "style": "body"},
+        {"text": "完全基于你这个人", "style": "title"},
+        {"text": "你这个IP", "style": "emphasis", "color": "#8b5cf6"},
+        {"text": "你也能活得不错", "style": "body"},
+        {"text": "但别想有太高的天花板", "style": "emphasis", "color": "#f59e0b"}
+      ],
+      "narration": "直播间直接卖正价产品，完全基于你这个人、你这个IP。你也能活得不错，但别想有太高的天花板。",
+      "duration": 8
+    },
+    {
+      "lines": [
+        {"text": "最危险的是谁？", "style": "title"},
+        {"text": "中间那种", "style": "emphasis", "color": "#ef4444"},
+        {"text": "想做大又没那个规模", "style": "body"},
+        {"text": "想灵活又背着一堆成本", "style": "emphasis", "color": "#ef4444"}
+      ],
+      "narration": "最危险的是谁？中间那种。想做大又没那个规模，想灵活又背着一堆成本。",
+      "duration": 7
+    },
+    {
+      "lines": [
+        {"text": "要么行业绝对头部", "style": "title"},
+        {"text": "要么绝对灵活", "style": "emphasis", "color": "#10b981"},
+        {"text": "路径别搞那么长", "style": "body"},
+        {"text": "最多投点抖加", "style": "body"},
+        {"text": "投点微信豆就完事", "style": "emphasis", "color": "#f59e0b"}
+      ],
+      "narration": "要么行业绝对头部，要么绝对灵活。路径别搞那么长，别搞什么批量化低转高，最多投点抖加、投点微信豆就完事。",
+      "duration": 8
+    }
+  ]
+}

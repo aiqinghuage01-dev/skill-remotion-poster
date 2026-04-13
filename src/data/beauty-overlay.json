@@ -1,0 +1,187 @@
+{
+  "hookTitle": "一定要注意",
+  "hookSubtitle": "美业老板别再拼价格了",
+  "baseVideo": "broll-demo-30fps.mp4",
+  "audioTrack": "audio/broll-demo.mp3",
+  "totalDuration": 95.04,
+  "segments": [
+    {
+      "index": 0,
+      "startTime": 0.0,
+      "endTime": 1.0,
+      "caption": "但客戶來了就問有沒有團購能不能打折",
+      "narration": "做美業的老闆 你有沒有這種感覺你的技術明明值3000塊但客戶來了就問有沒有團購能不能打折",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 1,
+      "startTime": 1.0,
+      "endTime": 6.64,
+      "caption": "但客戶來了就問有沒有團購能不能打折",
+      "narration": "做美業的老闆 你有沒有這種感覺你的技術明明值3000塊但客戶來了就問有沒有團購能不能打折",
+      "overlay": "overlays/beauty/overlay-001.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 0
+    },
+    {
+      "index": 2,
+      "startTime": 6.64,
+      "endTime": 12.82,
+      "caption": "只看價格更扎心的是什麼",
+      "narration": "你做了10年手藝結果客戶把你當跟隔壁新開內價一樣只看價格更扎心的是什麼",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 3,
+      "startTime": 12.82,
+      "endTime": 18.38,
+      "caption": "發對比 發客戶反饋",
+      "narration": "你的銅航可能技術不如你但人家短視頻上天天發案例發對比 發客戶反饋",
+      "overlay": "overlays/beauty/overlay-003.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 1
+    },
+    {
+      "index": 4,
+      "startTime": 18.38,
+      "endTime": 24.2,
+      "caption": "客戶第一次知道你",
+      "narration": "附近的人刷了十幾條視頻經電之前就覺得這家靠譜而你呢客戶第一次知道你",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 5,
+      "startTime": 24.2,
+      "endTime": 29.14,
+      "caption": "到了電裡就指揮問價",
+      "narration": "是在大眾點名上看了個價格他連你擅長什麼都不知道到了電裡就指揮問價",
+      "overlay": "overlays/beauty/overlay-005.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 2
+    },
+    {
+      "index": 6,
+      "startTime": 29.14,
+      "endTime": 35.38,
+      "caption": "沒有任何渠道了解到你的技術值這個價",
+      "narration": "問題不是你的技術不之前是客戶到你店之前沒有任何渠道了解到你的技術值這個價",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 7,
+      "startTime": 35.38,
+      "endTime": 40.0,
+      "caption": "跟隔壁內家長的一模一樣",
+      "narration": "他看到的只有一個團購套餐和一個評分跟隔壁內家長的一模一樣",
+      "overlay": "overlays/beauty/overlay-007.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 0
+    },
+    {
+      "index": 8,
+      "startTime": 40.0,
+      "endTime": 44.7,
+      "caption": "你把你最擅長的項目做過的真實案例",
+      "narration": "這件事現在用AI就能解決你把你最擅長的項目做過的真實案例",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 9,
+      "startTime": 44.7,
+      "endTime": 49.84,
+      "caption": "這類客戶做決定錢最糾結什麼",
+      "narration": "客戶最在意的問題輸給AI他先幫你拆解這類客戶做決定錢最糾結什麼",
+      "overlay": "overlays/beauty/overlay-009.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 1
+    },
+    {
+      "index": 10,
+      "startTime": 49.84,
+      "endTime": 55.9,
+      "caption": "直接聲稱一條條口播腳本",
+      "narration": "最怕什麼效果不好最在意哪個細節然後針對這些顧慮直接聲稱一條條口播腳本",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 11,
+      "startTime": 55.9,
+      "endTime": 62.82,
+      "caption": "數字人用你的形象和聲音替你講",
+      "narration": "不是那種硬廣是讓客戶看完就覺得這個老闆懂我的內容你不想出境數字人用你的形象和聲音替你講",
+      "overlay": "overlays/beauty/overlay-011.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 2
+    },
+    {
+      "index": 12,
+      "startTime": 62.82,
+      "endTime": 67.82,
+      "caption": "AI一次性全部做好",
+      "narration": "從腳本到成片字幕BGM封面AI一次性全部做好",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 13,
+      "startTime": 67.82,
+      "endTime": 73.46,
+      "caption": "美容需求的精準客戶",
+      "narration": "做好之後打上同程標籤持續推給附近有互敷美容需求的精準客戶",
+      "overlay": "overlays/beauty/overlay-013.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 0
+    },
+    {
+      "index": 14,
+      "startTime": 73.46,
+      "endTime": 78.42,
+      "caption": "現在客戶來之前",
+      "narration": "以前客戶到你店裡是衝著最低價來的比玩家就走現在客戶來之前",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 15,
+      "startTime": 78.42,
+      "endTime": 83.72,
+      "caption": "他是帶著吸引來的",
+      "narration": "已經看過你十幾條視頻知道你擅長什麼項目做過什麼效果他是帶著吸引來的",
+      "overlay": "overlays/beauty/overlay-015.mp4",
+      "showOverlay": true,
+      "overlayType": "video",
+      "layoutVariant": 1
+    },
+    {
+      "index": 16,
+      "startTime": 83.72,
+      "endTime": 89.7,
+      "caption": "不想再跟銅航拼價格的美業老闆",
+      "narration": "開口就問我適合做哪個方案不再問最便宜的多少錢不想再跟銅航拼價格的美業老闆",
+      "overlay": null,
+      "showOverlay": false
+    },
+    {
+      "index": 17,
+      "startTime": 89.7,
+      "endTime": 95.04,
+      "caption": "讓客戶主動找你做高課單項目",
+      "narration": "點頭像進我直播間我正在教你怎麼用AI讓客戶主動找你做高課單項目",
+      "overlay": null,
+      "showOverlay": false
+    }
+  ]
+}

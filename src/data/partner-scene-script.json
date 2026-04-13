@@ -1,0 +1,78 @@
+{
+  "title": "一加三招生模式",
+  "author": {"name": ""},
+  "scenes": [
+    {
+      "type": "cover",
+      "narration": "两个合伙人开机构，一招干翻周边五家同行。",
+      "data": {
+        "title": "干翻5家同行",
+        "subtitle": "两个合伙人开机构",
+        "tagline": "一招搞定 · 周边同行全趴下",
+        "avatar": "avatar.jpg",
+        "author": "清华哥团队"
+      }
+    },
+    {
+      "type": "steps",
+      "narration": "第一步，门口挂横幅，扫码进群，免费送三节体验课，家长根本没法拒绝，精准引流进群。",
+      "data": {
+        "title": "第一步：免费体验课引流",
+        "emoji": "🎯",
+        "steps": [
+          {"label": "门口挂横幅", "description": "扫码进群"},
+          {"label": "免费送3节体验课", "description": "家长根本没法拒绝"},
+          {"label": "精准引流进群", "description": "一步锁定目标家长"}
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "narration": "第二步，体验完立刻跟进，转发朋友圈就能领三张三百元抵现卡，报名直接抵扣九百，家长瞬间有报名冲动。",
+      "data": {
+        "title": "第二步：朋友圈裂变转化",
+        "emoji": "💰",
+        "steps": [
+          {"label": "体验完立刻跟进"},
+          {"label": "转发朋友圈领3张300元抵现卡"},
+          {"label": "报名直接抵扣900元", "description": "家长瞬间有报名冲动"}
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "narration": "第三步，群内每天定点发红包，抢到最大的免费带三个朋友来上体验课，邀请人还能直接领儿童手表一块。",
+      "data": {
+        "title": "第三步：红包裂变拉新",
+        "emoji": "🧧",
+        "steps": [
+          {"label": "群内每天定点发红包"},
+          {"label": "最大红包免费带3个朋友体验"},
+          {"label": "邀请人领儿童手表一块", "description": "老带新零成本"}
+        ]
+      }
+    },
+    {
+      "type": "data",
+      "narration": "这就是无敌的一加三招生模式，一个老客户裂变三个新客户，生源直接爆棚。",
+      "data": {
+        "items": [
+          {"label": "老客户", "value": 1, "unit": "个"},
+          {"label": "裂变新客户", "value": 3, "unit": "个"},
+          {"label": "招生模式", "value": 1, "unit": "+3"}
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "narration": "这套方案的详细执行细节、话术、模板、物料设计我全整理好了，校长们打个八，分享给你。",
+      "data": {
+        "title": "话术+模板+物料全整理好了",
+        "subtitle": "校长们",
+        "action": "评论区打 8",
+        "avatar": "avatar.jpg",
+        "author": "清华哥团队"
+      }
+    }
+  ]
+}

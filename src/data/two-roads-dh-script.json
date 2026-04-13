@@ -1,0 +1,175 @@
+{
+  "title": "今年我看得很清楚",
+  "digitalHuman": "two-roads-dh.mp4",
+  "digitalHumanCrop": "center 45.9%",
+  "audioTrack": "audio/two-roads-dh.mp3",
+  "slides": [
+    {
+      "lines": [
+        {
+          "text": "今年我看得很清楚",
+          "style": "title"
+        },
+        {
+          "text": "往下走就两条路",
+          "style": "body"
+        },
+        {
+          "text": "没有第三种",
+          "style": "body"
+        },
+        {
+          "text": "第一种你足够大",
+          "style": "gradient",
+          "color": "#f59e0b"
+        }
+      ],
+      "narration": "今年我看得很清楚往下走就两条路没有第三种第一种你足够大",
+      "duration": 4.86
+    },
+    {
+      "lines": [
+        {
+          "text": "头部机构",
+          "style": "title"
+        },
+        {
+          "text": "组织化运作",
+          "style": "body"
+        },
+        {
+          "text": "模型效率够高",
+          "style": "body"
+        },
+        {
+          "text": "纯粹靠投流抢量",
+          "style": "body"
+        },
+        {
+          "text": "这帮人能赢",
+          "style": "emphasis",
+          "color": "#ef4444"
+        }
+      ],
+      "narration": "头部机构组织化运作模型效率够高纯粹靠投流抢量这帮人能赢",
+      "duration": 5.56
+    },
+    {
+      "lines": [
+        {
+          "text": "第二种你足够小",
+          "style": "title"
+        },
+        {
+          "text": "没太多组织成本",
+          "style": "body"
+        },
+        {
+          "text": "没太多环节",
+          "style": "body"
+        },
+        {
+          "text": "灵活",
+          "style": "body"
+        },
+        {
+          "text": "你就是一个夫妻店",
+          "style": "gradient",
+          "color": "#06b6d4"
+        }
+      ],
+      "narration": "第二种你足够小没太多组织成本没太多环节灵活你就是一个夫妻店",
+      "duration": 5.48
+    },
+    {
+      "lines": [
+        {
+          "text": "卖一单是一单",
+          "style": "title"
+        },
+        {
+          "text": "直播间直接卖正价产品",
+          "style": "body"
+        },
+        {
+          "text": "完全基于你这个人",
+          "style": "body"
+        },
+        {
+          "text": "你这个IP",
+          "style": "gradient",
+          "color": "#10b981"
+        }
+      ],
+      "narration": "卖一单是一单直播间直接卖正价产品完全基于你这个人你这个IP",
+      "duration": 4.92,
+      "emoji": "👆"
+    },
+    {
+      "lines": [
+        {
+          "text": "你也能活得不错",
+          "style": "title"
+        },
+        {
+          "text": "但别想有太高的天花板",
+          "style": "body"
+        },
+        {
+          "text": "最危险的是谁",
+          "style": "body"
+        },
+        {
+          "text": "中间那种想做大又没那个规模",
+          "style": "emphasis",
+          "color": "#8b5cf6"
+        }
+      ],
+      "narration": "你也能活得不错但别想有太高的天花板最危险的是谁中间那种想做大又没那个规模",
+      "duration": 6.5
+    },
+    {
+      "lines": [
+        {
+          "text": "想灵活又背着一堆成本",
+          "style": "title"
+        },
+        {
+          "text": "要么行业绝对头部",
+          "style": "body"
+        },
+        {
+          "text": "要么绝对灵活",
+          "style": "body"
+        },
+        {
+          "text": "路径别搞那么长",
+          "style": "gradient",
+          "color": "#ec4899"
+        }
+      ],
+      "narration": "想灵活又背着一堆成本要么行业绝对头部要么绝对灵活路径别搞那么长",
+      "duration": 5.78
+    },
+    {
+      "lines": [
+        {
+          "text": "别搞什么批量化低转高",
+          "style": "title"
+        },
+        {
+          "text": "最多投点抖加",
+          "style": "body"
+        },
+        {
+          "text": "投点微信豆就完事",
+          "style": "gradient",
+          "color": "#3b82f6"
+        }
+      ],
+      "narration": "别搞什么批量化低转高最多投点抖加投点微信豆就完事",
+      "duration": 4.88,
+      "emoji": "⚡"
+    }
+  ]
+}

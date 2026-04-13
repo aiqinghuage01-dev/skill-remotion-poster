@@ -1,0 +1,126 @@
+{
+  "matched": 17,
+  "skipped": 0,
+  "total": 17,
+  "details": [
+    {
+      "slide": 0,
+      "keyword": "beauty salon customer",
+      "type": "video",
+      "file": "slide-000.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 1,
+      "keyword": "skilled craftsman working",
+      "type": "video",
+      "file": "slide-001.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 2,
+      "keyword": "person scrolling phone short video",
+      "type": "video",
+      "file": "slide-002.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 3,
+      "keyword": "woman browsing phone beauty content",
+      "type": "video",
+      "file": "slide-003.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 4,
+      "keyword": "person checking reviews phone",
+      "type": "video",
+      "file": "slide-004.mp4",
+      "resolution": "2160x3840"
+    },
+    {
+      "slide": 5,
+      "keyword": "frustrated business owner",
+      "type": "video",
+      "file": "slide-005.mp4",
+      "resolution": "2160x3840"
+    },
+    {
+      "slide": 6,
+      "keyword": "discount coupon deal",
+      "type": "video",
+      "file": "slide-006.mp4",
+      "resolution": "2160x3840"
+    },
+    {
+      "slide": 7,
+      "keyword": "artificial intelligence technology screen",
+      "type": "video",
+      "file": "slide-007.mp4",
+      "resolution": "2160x4096"
+    },
+    {
+      "slide": 8,
+      "keyword": "AI chatbot conversation screen",
+      "type": "video",
+      "file": "slide-008.mp4",
+      "resolution": "2160x3840"
+    },
+    {
+      "slide": 9,
+      "keyword": "content creator writing script",
+      "type": "video",
+      "file": "slide-009.mp4",
+      "resolution": "2160x3840"
+    },
+    {
+      "slide": 10,
+      "keyword": "digital avatar virtual human",
+      "type": "video",
+      "file": "slide-010.mp4",
+      "resolution": "2160x3840"
+    },
+    {
+      "slide": 11,
+      "keyword": "video editing timeline screen",
+      "type": "video",
+      "file": "slide-011.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 12,
+      "keyword": "targeted advertising phone",
+      "type": "video",
+      "file": "slide-012.mp4",
+      "resolution": "2160x4096"
+    },
+    {
+      "slide": 13,
+      "keyword": "customer entering beauty store",
+      "type": "video",
+      "file": "slide-013.mp4",
+      "resolution": "2160x4096"
+    },
+    {
+      "slide": 14,
+      "keyword": "woman watching beauty video phone",
+      "type": "video",
+      "file": "slide-014.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 15,
+      "keyword": "happy customer premium service",
+      "type": "video",
+      "file": "slide-015.mp4",
+      "resolution": "1080x1920"
+    },
+    {
+      "slide": 16,
+      "keyword": "live streaming studio setup",
+      "type": "video",
+      "file": "slide-016.mp4",
+      "resolution": "1080x1920"
+    }
+  ]
+}

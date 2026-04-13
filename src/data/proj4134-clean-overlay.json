@@ -1,0 +1,250 @@
+{
+  "hookTitle": "教培行业内幕",
+  "hookSubtitle": "4500编程特权班到底值不值",
+  "baseVideo": "proj4134-clean.mp4",
+  "audioTrack": "audio/proj4134-clean.mp3",
+  "totalDuration": 54.72,
+  "segments": [
+    {
+      "startTime": 0.0,
+      "endTime": 1.0,
+      "caption": "原因实在是看不下去了",
+      "narration": "我为什么要搞这个4500的变成特权班呢原因实在是看不下去了",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 0
+    },
+    {
+      "startTime": 1.0,
+      "endTime": 5.16,
+      "caption": "原因实在是看不下去了",
+      "narration": "我为什么要搞这个4500的变成特权班呢原因实在是看不下去了",
+      "overlay": "overlays/proj4134-clean/overlay-001.mp4",
+      "showOverlay": true,
+      "index": 1,
+      "layoutVariant": 0,
+      "overlayType": "video"
+    },
+    {
+      "startTime": 5.16,
+      "endTime": 9.6,
+      "caption": "10块98毛的体验课",
+      "narration": "现在我们这行业一堆的9块910块98毛的体验课",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 2
+    },
+    {
+      "startTime": 9.6,
+      "endTime": 15.2,
+      "caption": "渐少课程内容",
+      "narration": "报了个课吧电话给你打包了然后报了正式课呢降低课程难度渐少课程内容",
+      "overlay": "overlays/proj4134-clean/overlay-003.mp4",
+      "showOverlay": true,
+      "index": 3,
+      "layoutVariant": 1,
+      "overlayType": "video"
+    },
+    {
+      "startTime": 15.2,
+      "endTime": 20.64,
+      "caption": "会有什么白米蛋的升血",
+      "narration": "增加课程去位置还报养一堆比赛和考试会有什么白米蛋的升血",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 4
+    },
+    {
+      "startTime": 20.64,
+      "endTime": 23.1,
+      "caption": "会有什么等级考证的升血",
+      "narration": "会有什么等级考证的升血",
+      "overlay": "overlays/proj4134-clean/overlay-005.mp4",
+      "showOverlay": true,
+      "index": 5,
+      "layoutVariant": 2,
+      "overlayType": "video"
+    },
+    {
+      "startTime": 23.1,
+      "endTime": 27.88,
+      "caption": "我就搞了个4500特权班",
+      "narration": "我们家长会忽略的团团状太可怜了所以今年呢我就搞了个4500特权班",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 6
+    },
+    {
+      "startTime": 27.88,
+      "endTime": 32.74,
+      "caption": "让孩子们的血平时啊",
+      "narration": "我就把我们的赛考机构的正式课开放出来让孩子们的血平时啊",
+      "overlay": "overlays/proj4134-clean/overlay-007.mp4",
+      "showOverlay": true,
+      "index": 7,
+      "layoutVariant": 0,
+      "overlayType": "video"
+    },
+    {
+      "startTime": 32.74,
+      "endTime": 38.1,
+      "caption": "都是我们竞赛教典说法主教",
+      "narration": "两三现在课程只要4500就能学到而且呢都是我们竞赛教典说法主教",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 8
+    },
+    {
+      "startTime": 38.1,
+      "endTime": 42.72,
+      "caption": "到直播间来听一听",
+      "narration": "是我亲自给你做规划还有保护机的服务如果你赶兴趣到直播间来听一听",
+      "overlay": "overlays/proj4134-clean/overlay-009.mp4",
+      "showOverlay": true,
+      "index": 9,
+      "layoutVariant": 1,
+      "overlayType": "video"
+    },
+    {
+      "startTime": 42.72,
+      "endTime": 47.34,
+      "caption": "还有直播交产",
+      "narration": "现在直播间啊还有两次免费事情视约机会还有直播交产",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 10
+    },
+    {
+      "startTime": 47.34,
+      "endTime": 52.56,
+      "caption": "一定要少量名",
+      "narration": "千万不要千万一定要来战名额一定要少量名",
+      "overlay": "overlays/proj4134-clean/overlay-011.mp4",
+      "showOverlay": true,
+      "index": 11,
+      "layoutVariant": 2,
+      "overlayType": "video"
+    },
+    {
+      "startTime": 52.56,
+      "endTime": 54.72,
+      "caption": "一定过来战",
+      "narration": "名额是限量的一定过来战",
+      "overlay": null,
+      "showOverlay": false,
+      "index": 12
+    }
+  ],
+  "subtitles": [
+    {
+      "startTime": 0.8,
+      "endTime": 3.6,
+      "text": "我为什么要搞这个4500的编程特权班呢"
+    },
+    {
+      "startTime": 3.6,
+      "endTime": 5.5,
+      "text": "原因实在是看不下去了"
+    },
+    {
+      "startTime": 5.9,
+      "endTime": 8.1,
+      "text": "现在我们这行业一堆的9块9"
+    },
+    {
+      "startTime": 8.1,
+      "endTime": 9.7,
+      "text": "10块98毛的体验课"
+    },
+    {
+      "startTime": 10.4,
+      "endTime": 12.1,
+      "text": "报了个课吧 电话给你打爆了"
+    },
+    {
+      "startTime": 12.1,
+      "endTime": 14.8,
+      "text": "然后报了正式课呢 降低课程难度"
+    },
+    {
+      "startTime": 14.8,
+      "endTime": 17.4,
+      "text": "减少课程内容 增加课程趣味性"
+    },
+    {
+      "startTime": 17.4,
+      "endTime": 19.8,
+      "text": "还捆绑一堆比赛和考试"
+    },
+    {
+      "startTime": 19.8,
+      "endTime": 21.4,
+      "text": "会有什么白名单的升学"
+    },
+    {
+      "startTime": 21.4,
+      "endTime": 23.1,
+      "text": "会有什么等级考证的升学"
+    },
+    {
+      "startTime": 23.9,
+      "endTime": 26.2,
+      "text": "我们家长被忽悠得团团转"
+    },
+    {
+      "startTime": 26.2,
+      "endTime": 28.7,
+      "text": "太可怜了 所以今年呢 我就搞了个4500特权班"
+    },
+    {
+      "startTime": 28.7,
+      "endTime": 31.6,
+      "text": "我就把我们的赛考机会正式课开放出来"
+    },
+    {
+      "startTime": 31.6,
+      "endTime": 35.8,
+      "text": "让孩子们学 平时两三万的课程只要4500就能学到"
+    },
+    {
+      "startTime": 35.8,
+      "endTime": 38.5,
+      "text": "而且呢 都是我们竞赛教练亲自主教"
+    },
+    {
+      "startTime": 38.9,
+      "endTime": 41.4,
+      "text": "是我亲自给你做规划 还有保过机制的服务"
+    },
+    {
+      "startTime": 41.4,
+      "endTime": 43.5,
+      "text": "如果你感兴趣 到直播间来听一听"
+    },
+    {
+      "startTime": 43.5,
+      "endTime": 46.9,
+      "text": "现在直播间还有两次免费试听预约机会"
+    },
+    {
+      "startTime": 46.9,
+      "endTime": 49.4,
+      "text": "还有直播间教材"
+    },
+    {
+      "startTime": 49.4,
+      "endTime": 51.6,
+      "text": "千万一定要来抢名额"
+    },
+    {
+      "startTime": 51.6,
+      "endTime": 53.3,
+      "text": "名额是限量的"
+    },
+    {
+      "startTime": 53.3,
+      "endTime": 55.1,
+      "text": "一定过来占"
+    }
+  ]
+}

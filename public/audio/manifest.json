@@ -1,0 +1,16 @@
+{
+  "audioFiles": [
+    "audio/slide-000.mp3",
+    "audio/slide-001.mp3",
+    "audio/slide-002.mp3",
+    "audio/slide-003.mp3",
+    "audio/slide-004.mp3"
+  ],
+  "slideDurations": [
+    4.2,
+    6.2,
+    3.8,
+    5.5,
+    9.4
+  ]
+}

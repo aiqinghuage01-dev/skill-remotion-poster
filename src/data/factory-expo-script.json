@@ -1,0 +1,224 @@
+{
+  "title": "做工厂的老板你算过这笔账没有",
+  "digitalHuman": "factory-expo.mp4",
+  "digitalHumanCrop": "center 45.6%",
+  "audioTrack": "audio/factory-expo.mp3",
+  "slides": [
+    {
+      "lines": [
+        {
+          "text": "做工厂的老板你算过这笔账没有",
+          "style": "title"
+        },
+        {
+          "text": "一个展会展位费加差旅加物料",
+          "style": "emphasis",
+          "color": "#f59e0b"
+        }
+      ],
+      "narration": "做工厂的老板你算过这笔账没有一个展会展位费加差旅加物料",
+      "duration": 4.78
+    },
+    {
+      "lines": [
+        {
+          "text": "少说两三万四天站下来",
+          "style": "title"
+        },
+        {
+          "text": "名片收了一厚沓最后能签的也就那么一两个",
+          "style": "emphasis",
+          "color": "#ef4444"
+        }
+      ],
+      "narration": "少说两三万四天站下来名片收了一厚沓最后能签的也就那么一两个",
+      "duration": 5.38
+    },
+    {
+      "lines": [
+        {
+          "text": "你说那让业务员去跑吧",
+          "style": "title"
+        },
+        {
+          "text": "五六个人一年五六十万",
+          "style": "body"
+        },
+        {
+          "text": "好不容易开发的客户",
+          "style": "body"
+        },
+        {
+          "text": "业务员一离职客户也跟着走了",
+          "style": "emphasis",
+          "color": "#06b6d4"
+        }
+      ],
+      "narration": "你说那让业务员去跑吧五六个人一年五六十万好不容易开发的客户业务员一离职客户也跟着走了",
+      "duration": 6.46
+    },
+    {
+      "lines": [
+        {
+          "text": "你的设备不差品控不差",
+          "style": "title"
+        },
+        {
+          "text": "交期也不差",
+          "style": "body"
+        },
+        {
+          "text": "但采购商压根不知道你的存在",
+          "style": "emphasis",
+          "color": "#10b981"
+        }
+      ],
+      "narration": "你的设备不差品控不差交期也不差但采购商压根不知道你的存在",
+      "duration": 4.98
+    },
+    {
+      "lines": [
+        {
+          "text": "你在等渠道商下单",
+          "style": "title"
+        },
+        {
+          "text": "渠道商拿你的报价去比价",
+          "style": "body"
+        },
+        {
+          "text": "你在等老客户返单",
+          "style": "gradient",
+          "color": "#8b5cf6"
+        }
+      ],
+      "narration": "你在等渠道商下单渠道商拿你的报价去比价你在等老客户返单",
+      "duration": 4.8
+    },
+    {
+      "lines": [
+        {
+          "text": "老客户拿你的样品找更便宜的",
+          "style": "title"
+        },
+        {
+          "text": "越被挑利润越薄",
+          "style": "gradient",
+          "color": "#ec4899"
+        }
+      ],
+      "narration": "老客户拿你的样品找更便宜的越被挑利润越薄",
+      "duration": 4.02
+    },
+    {
+      "lines": [
+        {
+          "text": "现在有一套用AI做线上获客的方法",
+          "style": "title"
+        },
+        {
+          "text": "你把产品参数工艺优势",
+          "style": "gradient",
+          "color": "#3b82f6"
+        }
+      ],
+      "narration": "现在有一套用AI做线上获客的方法你把产品参数工艺优势",
+      "duration": 4.68,
+      "emoji": "🤖"
+    },
+    {
+      "lines": [
+        {
+          "text": "产能规模输进去",
+          "style": "title"
+        },
+        {
+          "text": "AI帮你拆采购方最在意的顾虑",
+          "style": "body"
+        },
+        {
+          "text": "然后生成专属你工厂的口播脚本",
+          "style": "emphasis",
+          "color": "#eab308"
+        }
+      ],
+      "narration": "产能规模输进去AI帮你拆采购方最在意的顾虑然后生成专属你工厂的口播脚本",
+      "duration": 6.5
+    },
+    {
+      "lines": [
+        {
+          "text": "不想出镜",
+          "style": "title"
+        },
+        {
+          "text": "数字人用你的形象站在车间里替你讲",
+          "style": "body"
+        },
+        {
+          "text": "视频做好后AI自动剪辑成片",
+          "style": "emphasis",
+          "color": "#f59e0b"
+        }
+      ],
+      "narration": "不想出镜数字人用你的形象站在车间里替你讲视频做好后AI自动剪辑成片",
+      "duration": 5.98,
+      "emoji": "🤖"
+    },
+    {
+      "lines": [
+        {
+          "text": "字幕音乐全配齐",
+          "style": "title"
+        },
+        {
+          "text": "精准推送给正在搜你这个品类的采购商",
+          "style": "body"
+        },
+        {
+          "text": "以前花几十万养团队跑客户",
+          "style": "emphasis",
+          "color": "#ef4444"
+        }
+      ],
+      "narration": "字幕音乐全配齐精准推送给正在搜你这个品类的采购商以前花几十万养团队跑客户",
+      "duration": 6.48,
+      "emoji": "💸"
+    },
+    {
+      "lines": [
+        {
+          "text": "现在是采购商刷到你的车间和产线",
+          "style": "title"
+        },
+        {
+          "text": "带着需求来找你询价",
+          "style": "body"
+        },
+        {
+          "text": "不想再花大价钱跑展会等订单的工厂老板",
+          "style": "emphasis",
+          "color": "#06b6d4"
+        }
+      ],
+      "narration": "现在是采购商刷到你的车间和产线带着需求来找你询价不想再花大价钱跑展会等订单的工厂老板",
+      "duration": 7.24
+    },
+    {
+      "lines": [
+        {
+          "text": "点头像进我直播间方法都整理好了",
+          "style": "title"
+        },
+        {
+          "text": "赶紧进来",
+          "style": "gradient",
+          "color": "#10b981"
+        }
+      ],
+      "narration": "点头像进我直播间方法都整理好了赶紧进来",
+      "duration": 3.7,
+      "emoji": "👆"
+    }
+  ]
+}
