@@ -1,0 +1,23 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 4,
+  "role": "视觉设计师",
+  "avatar": {
+    "style": "lorelei",
+    "seed": "designer-visual-card"
+  },
+  "capabilities": [
+    "shell",
+    "node",
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "文案自动生成卡片视频（本地TTS+Remotion）"
+}
